@@ -1,0 +1,65 @@
+POST  https://eijiverse.my.id/sambelverse3/api/invoice.php
+Content-Type: application/json
+
+{
+  "user_id": 4,
+  "pesanan": "Nasi Goreng x 2, Ayam Bakar x 1",
+  "kategori": "siang",
+  "total_tagihan": 150000,
+  "keterangan": "lunas"
+}
+
+###
+GET http://localhost:8000/crud_invoice.php
+Content-Type: application/json
+
+###
+GET http://localhost:8000/get-filter.php
+Content-Type: application/json
+
+###
+GET http://localhost:8000/get-filter-ket.php
+Content-Type: application/json
+
+###
+GET http://localhost:8000/getNameUser.php?user_id=9
+Content-Type: application/json
+
+###
+# tanpa filter
+GET http://eijiverse.my.id/sambelverse3/api/list-invoice.php
+Content-Type: application/json
+
+###
+# filter tanggal
+GET http://localhost:8000/list-invoice.php?date=2025-01-16
+Content-Type: application/json
+
+###
+# filter kategori siang/sore
+GET http://localhost:8000/list-invoice.php?kategori=sore
+Content-Type: application/json
+
+###
+# filter keterangan lunas/belum
+GET http://localhost:8000/list-invoice.php?keterangan=belum lunas
+Content-Type: application/json
+
+###
+# tampilkan deposit
+GET http://localhost:8000/deposit.php?user_id=4
+Content-Type: application/json
+
+###
+# tampilkan deposit
+GET http://localhost:8000/crud_invoice.php
+Content-Type: application/json
+
+###
+# tampilkan deposit
+GET http://localhost:8000/crud_invoice.php?user_id=6
+Content-Type: application/json
+
+###
+GET https://eijiverse.my.id/sambelverse3/api/menu.php?action=all-menus
+Content-Type: application/json

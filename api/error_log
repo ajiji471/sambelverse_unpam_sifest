@@ -1,0 +1,619 @@
+[17-Jan-2025 02:16:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/ajijimyi/public_html/sambelverse3/api/menu.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 18
+[17-Jan-2025 02:16:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/ajijimyi/public_html/sambelverse3/api/login.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/login.php on line 26
+[17-Jan-2025 02:20:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/ajijimyi/public_html/sambelverse3/api/menu.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 19
+[17-Jan-2025 02:20:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/ajijimyi/public_html/sambelverse3/api/menu.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 19
+[17-Jan-2025 02:20:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/ajijimyi/public_html/sambelverse3/api/menu.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 19
+[17-Jan-2025 02:20:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/ajijimyi/public_html/sambelverse3/api/menu.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 19
+[17-Jan-2025 02:22:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/ajijimyi/public_html/sambelverse3/api/menu.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 19
+[17-Jan-2025 02:26:18 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:16
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 16
+[17-Jan-2025 02:33:55 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:16
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 16
+[17-Jan-2025 02:34:15 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:16
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 16
+[17-Jan-2025 02:37:32 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:16
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 16
+[17-Jan-2025 02:37:33 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:16
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 16
+[17-Jan-2025 02:38:16 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:16
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 16
+[17-Jan-2025 02:42:50 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:16
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 16
+[17-Jan-2025 02:42:52 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:16
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 16
+[17-Jan-2025 02:46:27 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:16
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 16
+[17-Jan-2025 02:46:28 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:16
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 16
+[17-Jan-2025 02:46:29 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:16
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 16
+[17-Jan-2025 02:46:32 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:16
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 16
+[17-Jan-2025 02:46:33 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:16
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 16
+[17-Jan-2025 02:46:33 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:16
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 16
+[17-Jan-2025 02:46:36 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:16
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 16
+[17-Jan-2025 02:46:54 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:16
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 16
+[17-Jan-2025 02:46:58 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:16
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 16
+[17-Jan-2025 02:47:06 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:16
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 16
+[17-Jan-2025 02:47:14 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:16
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 16
+[17-Jan-2025 02:49:25 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:17
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(17): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 17
+[17-Jan-2025 02:49:26 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:17
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(17): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 17
+[17-Jan-2025 02:49:27 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:17
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(17): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 17
+[17-Jan-2025 02:52:07 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:17
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(17): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 17
+[17-Jan-2025 02:52:07 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:17
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(17): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 17
+[17-Jan-2025 02:52:43 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:17
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(17): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 17
+[17-Jan-2025 02:53:39 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/login.php:23
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/login.php(23): mysqli->prepare()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/login.php on line 23
+[17-Jan-2025 02:59:13 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/crud_invoice.php:34
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/crud_invoice.php(34): mysqli->query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/crud_invoice.php on line 34
+[17-Jan-2025 02:59:15 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/deposit.php:41
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/deposit.php(41): mysqli->close()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/deposit.php on line 41
+[17-Jan-2025 02:59:21 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/deposit.php:41
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/deposit.php(41): mysqli->close()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/deposit.php on line 41
+[17-Jan-2025 02:59:25 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/deposit.php:41
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/deposit.php(41): mysqli->close()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/deposit.php on line 41
+[17-Jan-2025 02:59:27 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/get-filter-ket.php:20
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/get-filter-ket.php(20): mysqli->query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/get-filter-ket.php on line 20
+[17-Jan-2025 02:59:29 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/get-filter.php:20
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/get-filter.php(20): mysqli->query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/get-filter.php on line 20
+[17-Jan-2025 02:59:49 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:17
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(17): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 17
+[17-Jan-2025 02:59:55 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:17
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(17): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 17
+[17-Jan-2025 03:00:51 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:17
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(17): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 17
+[17-Jan-2025 03:14:50 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:17
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(17): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 17
+[17-Jan-2025 03:15:14 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:17
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(17): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 17
+[17-Jan-2025 03:21:36 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:17
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(17): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 17
+[17-Jan-2025 03:21:38 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:17
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(17): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 17
+[17-Jan-2025 03:21:39 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:17
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(17): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 17
+[17-Jan-2025 03:22:20 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/register.php:28
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/register.php(28): mysqli->prepare()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/register.php on line 28
+[17-Jan-2025 03:27:52 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:17
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(17): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 17
+[17-Jan-2025 03:29:15 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:17
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(17): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 17
+[17-Jan-2025 03:29:17 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:17
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(17): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 17
+[17-Jan-2025 03:29:33 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:17
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(17): mysqli_query()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 17
+[17-Jan-2025 03:46:08 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:15
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(15): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 15
+[17-Jan-2025 03:46:10 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:15
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(15): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 15
+[17-Jan-2025 03:46:16 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:15
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(15): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 15
+[17-Jan-2025 03:46:18 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:15
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(15): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 15
+[17-Jan-2025 03:47:46 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:15
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(15): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 15
+[17-Jan-2025 03:47:47 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:15
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(15): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 15
+[17-Jan-2025 03:48:48 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:15
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(15): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 15
+[17-Jan-2025 04:16:49 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:15
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(15): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 15
+[17-Jan-2025 04:16:49 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:15
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(15): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 15
+[17-Jan-2025 04:55:10 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:15
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(15): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 15
+[17-Jan-2025 04:59:15 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:15
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(15): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 15
+[17-Jan-2025 04:59:19 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:15
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(15): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 15
+[17-Jan-2025 05:02:02 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:15
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(15): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 15
+[17-Jan-2025 05:02:04 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:15
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(15): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 15
+[17-Jan-2025 05:02:13 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:15
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(15): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 15
+[17-Jan-2025 05:02:16 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:15
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(15): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 15
+[17-Jan-2025 05:03:45 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:15
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(15): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 15
+[17-Jan-2025 05:45:28 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:15
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(15): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 15
+[17-Jan-2025 05:53:31 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:15
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(15): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 15
+[17-Jan-2025 05:53:33 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:15
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(15): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 15
+[17-Jan-2025 05:54:09 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:15
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(15): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 15
+[17-Jan-2025 05:54:26 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:15
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(15): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 15
+[17-Jan-2025 05:54:27 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:15
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(15): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 15
+[17-Jan-2025 05:54:33 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:15
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(15): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 15
+[17-Jan-2025 05:54:38 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:15
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(15): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 15
+[17-Jan-2025 06:01:00 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:15
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(15): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 15
+[17-Jan-2025 06:02:10 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:18
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(18): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 18
+[17-Jan-2025 06:02:11 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:18
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(18): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 18
+[17-Jan-2025 06:07:10 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:18
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(18): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 18
+[17-Jan-2025 06:07:41 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:17
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(17): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 17
+[17-Jan-2025 06:18:53 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:17
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(17): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 17
+[17-Jan-2025 06:24:37 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:17
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(17): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 17
+[17-Jan-2025 06:24:48 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:17
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(17): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 17
+[17-Jan-2025 06:25:24 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:17
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(17): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 17
+[17-Jan-2025 06:25:26 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:17
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(17): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 17
+[17-Jan-2025 06:25:26 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:17
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(17): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 17
+[17-Jan-2025 06:26:27 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:17
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(17): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 17
+[17-Jan-2025 06:26:42 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:17
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(17): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 17
+[17-Jan-2025 06:26:53 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:17
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(17): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 17
+[17-Jan-2025 06:28:22 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:17
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(17): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 17
+[17-Jan-2025 06:31:59 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:19
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(19): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 19
+[17-Jan-2025 06:32:33 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:19
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(19): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 19
+[17-Jan-2025 06:35:43 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:19
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(19): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 19
+[17-Jan-2025 06:35:46 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:19
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(19): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 19
+[17-Jan-2025 06:36:01 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:19
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(19): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 19
+[17-Jan-2025 06:37:24 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:19
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(19): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 19
+[17-Jan-2025 06:37:34 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/menu.php:19
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/menu.php(19): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/menu.php on line 19
+[17-Jan-2025 06:50:58 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/login.php:24
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/login.php(24): mysqli->prepare()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/login.php on line 24
+[17-Jan-2025 06:51:37 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/login.php:24
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/login.php(24): mysqli->prepare()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/login.php on line 24
+[17-Jan-2025 06:51:53 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/login.php:24
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/login.php(24): mysqli->prepare()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/login.php on line 24
+[17-Jan-2025 06:54:25 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/login.php:24
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/login.php(24): mysqli->prepare()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/login.php on line 24
+[17-Jan-2025 06:56:11 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/ajijimyi/public_html/sambelverse3/api/login.php:24
+Stack trace:
+#0 /home/ajijimyi/public_html/sambelverse3/api/login.php(24): mysqli->prepare()
+#1 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/login.php on line 24
+[17-Jan-2025 06:59:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ajijimyi/public_html/sambelverse3/api/login.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/login.php on line 24
+[17-Jan-2025 06:59:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ajijimyi/public_html/sambelverse3/api/login.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/login.php on line 24
+[17-Jan-2025 07:15:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ajijimyi/public_html/sambelverse3/api/login.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/login.php on line 24
+[17-Jan-2025 07:16:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ajijimyi/public_html/sambelverse3/api/login.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/login.php on line 24
+[17-Jan-2025 07:18:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ajijimyi/public_html/sambelverse3/api/login.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/login.php on line 27
+[17-Jan-2025 07:19:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/ajijimyi/public_html/sambelverse3/api/getUserName.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/getUserName.php on line 23
+[17-Jan-2025 07:19:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/ajijimyi/public_html/sambelverse3/api/getUserName.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/getUserName.php on line 23
+[17-Jan-2025 07:19:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/ajijimyi/public_html/sambelverse3/api/getUserName.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/getUserName.php on line 23
+[17-Jan-2025 07:19:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/ajijimyi/public_html/sambelverse3/api/getUserName.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/getUserName.php on line 23
+[17-Jan-2025 07:19:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/ajijimyi/public_html/sambelverse3/api/getUserName.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/getUserName.php on line 23
+[17-Jan-2025 07:19:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/ajijimyi/public_html/sambelverse3/api/getUserName.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/getUserName.php on line 23
+[17-Jan-2025 07:20:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/ajijimyi/public_html/sambelverse3/api/getUserName.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/getUserName.php on line 23
+[17-Jan-2025 09:51:21 UTC] PHP Warning:  Undefined property: PDOStatement::$num_rows in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php on line 41
+[17-Jan-2025 09:51:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php on line 51
+[17-Jan-2025 09:51:25 UTC] PHP Warning:  Undefined property: PDOStatement::$num_rows in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php on line 41
+[17-Jan-2025 09:51:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php on line 51
+[17-Jan-2025 16:07:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/ajijimyi/public_html/sambelverse3/api/register.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/register.php on line 29
+[17-Jan-2025 16:07:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in /home/ajijimyi/public_html/sambelverse3/api/register.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/register.php on line 29
+[19-Jan-2025 08:05:13 UTC] PHP Warning:  Undefined property: PDOStatement::$num_rows in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php on line 41
+[19-Jan-2025 08:05:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php on line 51
+[19-Jan-2025 08:05:17 UTC] PHP Warning:  Undefined property: PDOStatement::$num_rows in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php on line 41
+[19-Jan-2025 08:05:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php on line 51
+[19-Jan-2025 08:05:19 UTC] PHP Warning:  Undefined property: PDOStatement::$num_rows in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php on line 41
+[19-Jan-2025 08:05:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php on line 51
+[19-Jan-2025 08:05:22 UTC] PHP Warning:  Undefined property: PDOStatement::$num_rows in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php on line 41
+[19-Jan-2025 08:05:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php on line 51
+[19-Jan-2025 08:05:28 UTC] PHP Warning:  Undefined property: PDOStatement::$num_rows in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php on line 41
+[19-Jan-2025 08:05:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php on line 51
+[19-Jan-2025 08:05:52 UTC] PHP Warning:  Undefined property: PDOStatement::$num_rows in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php on line 41
+[19-Jan-2025 08:05:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php on line 51
+[19-Jan-2025 08:05:54 UTC] PHP Warning:  Undefined property: PDOStatement::$num_rows in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php on line 41
+[19-Jan-2025 08:05:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php on line 51
+[19-Jan-2025 08:05:57 UTC] PHP Warning:  Undefined property: PDOStatement::$num_rows in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php on line 41
+[19-Jan-2025 08:05:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/ajijimyi/public_html/sambelverse3/api/list-invoice.php on line 51

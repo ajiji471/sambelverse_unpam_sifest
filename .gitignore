@@ -1,0 +1,11 @@
+# React
+client/node_modules/
+client/build/
+
+# PHP
+server/vendor/
+server/.env
+
+# Umum
+.DS_Store
+.env

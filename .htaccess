@@ -1,0 +1,13 @@
+# Aktifkan mod_rewrite
+RewriteEngine On
+
+# Tentukan base URL aplikasi Anda
+RewriteBase /sambelverse3/
+
+# Pastikan file gambar di dalam /sambelverse3/img/ bisa diakses dengan URL /img/
+RewriteRule ^img/(.*)$ /sambelverse3/img/$1 [L]
+
+# Arahkan semua rute yang tidak ada sebagai file atau folder fisik ke index.html
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /sambelverse3/index.html [L]

@@ -1,0 +1,111 @@
+GET http://localhost:8000/koneksi.php
+Content-Type: application/json
+
+###
+POST  http://localhost:8000/invoices.php
+Content-Type: application/json
+
+{
+  "user_id": 4,
+  "pesanan": "Nasi Goreng x 2, Ayam Bakar x 1",
+  "kategori": "siang",
+  "total_tagihan": 0,
+  "deposit_id":8000,
+  "keterangan": "lunas"
+}
+
+###
+POST  http://localhost:8000/create_rating.php
+Content-Type: application/json
+
+{
+  "kode_menu":1,
+  "user_id": 4,
+  "rating":5.0,
+  "testimoni":"enak banget"
+  
+}
+
+###
+GET http://localhost:8000/menu.php?action=menus-today
+Content-Type: application/json
+
+###
+GET http://localhost:8000/crud_invoice.php
+Content-Type: application/json
+
+###
+GET http://localhost:8000/get-filter.php
+Content-Type: application/json
+
+###
+GET http://localhost:8000/get-filter-ket.php
+Content-Type: application/json
+
+###
+GET http://localhost:8000/getNameUser.php?user_id=9
+Content-Type: application/json
+
+###
+# tanpa filter
+GET http://localhost:8000/list-invoice.php
+Content-Type: application/json
+
+###
+# filter tanggal
+GET http://localhost:8000/list-invoice.php?date=2025-01-16
+Content-Type: application/json
+
+###
+# filter kategori siang/sore
+GET http://localhost:8000/list-invoice.php?kategori=sore
+Content-Type: application/json
+
+###
+# filter keterangan lunas/belum
+GET http://localhost:8000/list-invoice.php?keterangan=belum lunas
+Content-Type: application/json
+
+###
+# tampilkan deposit
+GET http://localhost:8000/deposit.php?user_id=4
+Content-Type: application/json
+
+###
+# tampilkan deposit
+GET http://localhost:8000/invoices_deposit.php?user_id=4
+Content-Type: application/json
+
+###
+# tampilkan deposit
+GET http://localhost:8000/crud_invoice.php
+Content-Type: application/json
+
+###
+# tampilkan deposit
+GET http://localhost:8000/crud_invoice.php?user_id=6
+Content-Type: application/json
+
+###
+GET http://localhost:8000/id_invoices.php?user_id=4
+Content-Type: application/json
+
+###
+GET http://localhost:8000/total_tagihan.php?id_user=6
+Content-Type: application/json
+
+### get data tagihan:
+GET http://localhost:8000/tagihan/getDataTagihan.php?user_id=6
+Content-Type: application/json
+
+### get token:
+POST http://localhost:8000/paymentGateway.php
+Content-Type: application/json
+
+{
+  "total": 10000,
+  "name": "Ajiji",
+  "email": "ajiji@example.com",
+  "phone": "08123456789",
+  "userId": "user123"
+}
