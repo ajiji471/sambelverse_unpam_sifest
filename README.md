@@ -8,9 +8,9 @@ https://eijiverse.my.id/sambelverse4/
 
 # INSTAL VITE JS
 
-npm create vite@latest frontend
-cd frontend 
-npm install
+## npm create vite@latest frontend
+## cd frontend 
+## npm install
 
 # install react router dom
 npm i react-router-dom
